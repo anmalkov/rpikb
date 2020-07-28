@@ -1,2 +1,2 @@
-# rpikb
-Raspberry Pi knowledge base
+# Raspberry Pi knowledge base
+The place to understand Raspberry Pi.
