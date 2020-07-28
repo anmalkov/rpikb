@@ -1,4 +1,4 @@
-# Installing Ubuntu on Raspberry Pi 3 or 4
+# Installing Ubuntu on Raspberry Pi 4 or 3
 To start working with your small Raspberry Pi 3B/3B+/4B you have to first install an operation system to it. There are a lot of operation systems available for Raspberry Pi. The recommended one is Raspberry Pi OS that is available in three options: 
 * Lite [0.4 GB] - only command line interface (headless)
 * Desktop [1.1 GB] - includes everything from Lite and adds user-friendly UI interface
