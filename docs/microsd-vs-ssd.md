@@ -11,3 +11,14 @@ timings:
 * first apt upgrade rpi3 SD - 09:55 sec
 
   second pi - 09:22 sec
+  
+  
+  SSD
+  
+* first apt update rpi3 SSD - 9 sec
+  96 packages can be updated
+
+* first apt upgrade rpi3 SSD - 13:40 sec
+
+
+  
