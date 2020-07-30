@@ -21,4 +21,16 @@ timings:
 * first apt upgrade rpi3 SSD - 13:40 sec
 
 
+  # final tests
+  
+  pi1
+  on login - 103 updates, 41 security
+  SSD update - 41 sec, 7 sec
+  SSD upgrade - 14:00
+  
+  
+  pi2
+  on login - 66 updates, 0 security
+  SD update - 10 sec, 7 sec
+  SD upgrade - 09:06
   
