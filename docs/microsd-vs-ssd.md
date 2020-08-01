@@ -32,6 +32,7 @@ timings:
   SD update (78 packages) - 10 sec, 7 sec
   SD upgrade - 09:34
   
+   
   
   pi2
   on login - 66 updates, 0 security
@@ -41,3 +42,13 @@ timings:
   on login - 103 updates, 41 security
   SSD update (96 packages) - 10 sec, 7 sec
   SSD upgrade - 13:45
+  
+  
+  pi4
+  on login - 83 updates, 21 security
+  SD update (83 packages) - 5 sec, 4 sec
+  SD upgrade - 05:50
+  
+  on login - 99 updates, 37 security
+  SD update (92 packages) - 5 sec, 4 sec
+  SD upgrade - 06:30  
