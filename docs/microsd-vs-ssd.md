@@ -52,3 +52,8 @@ timings:
   on login - 99 updates, 37 security
   SD update (92 packages) - 5 sec, 4 sec
   SD upgrade - 06:30  
+  
+  Raspberry OS
+  
+  SSD update (19 packages) - 10 sec, 7 sec
+  SSD upgrade - 01:40
